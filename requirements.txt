@@ -1,3 +1,1 @@
-streamlit>=1.24.0
-markitdown>=0.1.0
-python-dotenv>=0.19.0
+c3RyZWFtbGl0Pj0xLjI0LjAKbWFya2l0ZG93bj49MC4xLjAKcHl0aG9uLWRvdGVudj49MC4xOS4w
